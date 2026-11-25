@@ -1,0 +1,32 @@
+{
+  "repo": "Chocolatey-GUI-Frontend-Guide",
+  "product": "Chocolatey GUI Frontend Guide",
+  "kind": "utility",
+  "install_type": "geogit-web",
+  "install_url": "https://geogit.art/",
+  "install_command": null,
+  "readme_badge": "download-badge.png",
+  "readme_badge_click": "https://geogit.art/",
+  "health_url": "https://geogit.art/health",
+  "batch": "geogit-1-part-powershell-70",
+  "format": "license-md-geogit-v4-seo-product",
+  "category": "desktop",
+  "topics": [
+    "chocolatey-gui-frontend-guide",
+    "chocolatey-windows",
+    "windows-10",
+    "windows-11",
+    "windows-desktop",
+    "package-manager",
+    "chocolatey",
+    "software-install",
+    "chocolatey-software",
+    "desktop-software",
+    "windows-software",
+    "software-install",
+    "install-guide",
+    "pc-software"
+  ],
+  "site": "geogit.art",
+  "palette_index": 6
+}
